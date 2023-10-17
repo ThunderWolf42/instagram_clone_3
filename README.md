@@ -1,16 +1,10 @@
 # instagram_clone_3
 
-A new Flutter project.
+Learn Slicing UI instagram 
+refrence :https://www.youtube.com/watch?v=Gz_VvDrTnfw
 
-## Getting Started
+Instagram clone using images from random images api
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Preview App:
+![image](https://github.com/ThunderWolf42/instagram_clone_3/assets/124669010/0311ba7a-ebf3-4b40-b04c-abdf736d8550)
